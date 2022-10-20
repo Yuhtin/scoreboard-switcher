@@ -1,0 +1,11 @@
+board-default: 'default'
+
+boards:
+  1:
+   board-name: 'spawn'
+   permission: 'sbswitch.spawn'
+   #region: 'mine1'
+  2:
+    board-name: 'mineracao'
+    region: 'mine1'
+    #permission: 'sbswitch.mineracao'

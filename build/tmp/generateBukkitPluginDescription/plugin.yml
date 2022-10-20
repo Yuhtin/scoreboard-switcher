@@ -1,0 +1,13 @@
+name: scoreboard-switcher
+version: 1.0.0
+main: com.yuhtin.quotes.sbswitcher.ScoreboardSwitcherPlugin
+authors:
+ - Yuhtin
+depend:
+ - MVdWPlaceholderAPI
+ - WorldEdit
+ - WorldGuard
+loadbefore:
+ - FeatherBoard
+commands:
+  pltest: {}
